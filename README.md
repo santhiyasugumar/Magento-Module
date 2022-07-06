@@ -11,7 +11,7 @@ Step #5: Create the controller and action<br>
 Step #6: Run the below Code<br>
 ```sudo php bin/magento setup:upgrade;
   sudo php bin/magento setup:di:compile;
-  sudo php bin/magento cache:flush;```
+  sudo php bin/magento cache:flush;``
   <br><br>
   <p>Route’s in magento are divided into 3 parts: Route frontname, controller and action as following example:</p>
   ```frontname/controller/action```
