@@ -14,5 +14,5 @@ sudo php bin/magento setup:upgrade;
 sudo php bin/magento setup:di:compile;
 sudo php bin/magento cache:flush;
 ````
-<p>Route’s in magento are divided into 3 parts: Route frontname, controller and action as following example:</p>
+Route’s in magento are divided into 3 parts: Route frontname, controller and action as following example:<br>
 ```frontname/controller/action```
