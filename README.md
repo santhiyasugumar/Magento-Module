@@ -9,9 +9,7 @@ Step #4: Create routes.xml file<br>
 Step #5: Create the controller and action<br>
 ```app/code/VendorName/ModuleName/Controller/Index/Test.php```<br>
 Step #6: Run the below Code<br>
-```sudo php bin/magento setup:upgrade;
-  sudo php bin/magento setup:di:compile;
-  sudo php bin/magento cache:flush;``
+```sudo php bin/magento setup:upgrade;sudo php bin/magento setup:di:compile;sudo php bin/magento cache:flush;```
   <br><br>
   <p>Route’s in magento are divided into 3 parts: Route frontname, controller and action as following example:</p>
   ```frontname/controller/action```
