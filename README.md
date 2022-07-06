@@ -1,4 +1,4 @@
-Step #1: Create the folder of Hello World module
+Step #1: Create the folder of Hello World module<br>
 ```app/code/VendorName/ModuleName```
 Step #2: Create etc/module.xml file.
 ```app/code/VendorName/ModuleName/etc/module.xml```
